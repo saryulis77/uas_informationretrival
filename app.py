@@ -4,7 +4,7 @@ import json
 import os
 
 # Path ke data hasil crawling
-DATA_PATH = "data/books.json"
+DATA_PATH = "books.json"
 
 st.set_page_config(page_title="Web Crawler Search", layout="wide")
 st.title("🔍 Web Crawler Search App")
